@@ -1,0 +1,2 @@
+./AbdomenMRCT_1041_0001_label.nii.gz
+./AbdomenMRCT_1042_0001_label.nii.gz
