@@ -1,0 +1,10 @@
+./labelsTs/AbdomenMRCT_1048_0001.nii.gz
+./labelsTs/AbdomenMRCT_1044_0001.nii.gz
+./labelsTs/AbdomenMRCT_1049_0001.nii.gz
+./labelsTs/AbdomenMRCT_1046_0001.nii.gz
+./labelsTs/AbdomenMRCT_1047_0001.nii.gz
+./labelsTs/AbdomenMRCT_1041_0001.nii.gz
+./labelsTs/AbdomenMRCT_1043_0001.nii.gz
+./labelsTs/AbdomenMRCT_1042_0001.nii.gz
+./labelsTs/AbdomenMRCT_1050_0001.nii.gz
+./labelsTs/AbdomenMRCT_1045_0001.nii.gz
